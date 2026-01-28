@@ -33,7 +33,7 @@ A Python-based Windows utility for converting DOCX files to PDF and PDF files to
 
 Download the latest Windows installer from GitHub Releases:
 
- sha256:138a25ea2cf173a0aaedfc51cfeccdf847f27a5f29fec2301f1342edaa156a46
+https://github.com/ShresthPandey313/DocxPdf-Converter/releases/download/v1.0/DocxPdfconverter_Setup.exe
 
 
 
