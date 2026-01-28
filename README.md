@@ -26,5 +26,13 @@ A Python-based Windows utility for converting DOCX files to PDF and PDF files to
 ![Installer](https://github.com/ShresthPandey313/DocxPdf-Converter/blob/11491fd0253c39951af5bef835db9cc33dce149a/Screenshots/Screenshot%201.png)
 
 ### Docx to Pdf
-![Conversion Output]([screenshots/conversion-success.png](https://github.com/ShresthPandey313/DocxPdf-Converter/blob/11491fd0253c39951af5bef835db9cc33dce149a/Screenshots/Screenshot%202.png))
+![Conversion Output](https://github.com/ShresthPandey313/DocxPdf-Converter/blob/11491fd0253c39951af5bef835db9cc33dce149a/Screenshots/Screenshot%202.png)
+
+
+## Download
+
+You can download the latest Windows installer from the GitHub Releases page:
+
+ Go to **Releases** → Download the latest version
+
 
