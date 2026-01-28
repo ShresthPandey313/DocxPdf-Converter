@@ -23,7 +23,7 @@ A Python-based Windows utility for converting DOCX files to PDF and PDF files to
 ## Screenshots
 
 ### Docs To pdf
-![Installer](Screenshots/Screenshot 1.png)
+![Installer]([Screenshots/Screenshot 1.png](https://github.com/ShresthPandey313/DocxPdf-Converter/blob/main/Screenshots/Screenshot%201.png?raw=true))
 
 ### Conversion Output
 ![Conversion Output](Screenshots/Screenshot 2.png)
