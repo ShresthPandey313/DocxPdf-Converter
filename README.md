@@ -9,7 +9,7 @@ A Python-based Windows utility for converting DOCX files to PDF and PDF files to
 - Backend-focused tool (no GUI) for automation use cases
 - Packaged as standalone Windows executable using PyInstaller
 - Distributed using a custom Windows installer (Inno Setup)
-- Suitable for batch processing and internal tooling
+- Suitable for batch processing and internal tooling.
 
 
 ## Tools
